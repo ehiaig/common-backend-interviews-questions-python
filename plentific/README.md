@@ -1,0 +1,1 @@
+Takehome test implementaion can be found at https://github.com/ehiaig/plentific-api
